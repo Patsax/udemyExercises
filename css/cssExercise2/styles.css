@@ -13,3 +13,13 @@
     * set spacing between letters to 20px
 
     * add a wavy plum underline (plum is the color) - I can't test this, but make sure it looks like the image! */
+
+h1 {
+    text-transform: uppercase;
+    font-family: monospace;
+    align-items: center;
+    font-weight: 100;
+    font-size: 40px;
+    letter-spacing: 20px;
+    text-decoration: plum underline wavy;
+}
