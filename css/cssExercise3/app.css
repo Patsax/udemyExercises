@@ -4,4 +4,15 @@
     * give the element the id [clear] a [red] background and [white] text
 */
 
+li {
+    color: blue;
+}
 
+.done {
+    color: gray;
+}
+
+#clear {
+    color: white;
+    background-color: red;
+}
